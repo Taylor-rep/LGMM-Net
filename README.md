@@ -1,4 +1,4 @@
-# LGMM-Net: Lightweight Gated Multi-scale Mamba Network for Medical Image Segmentation
+# LGMM-Net: Local–Global Mamba-Enhanced Multi-Scale Edge-Aware Segmentation Network
 
 LGMM-Net 是一种专为医疗图像分割任务设计的轻量级深度学习模型。它结合了 Mamba (State Space Models) 的高效长序列建模能力和创新的门控多尺度融合机制，在保持极低参数量的同时，实现了卓越的分割性能。
 
