@@ -45,11 +45,6 @@ LGMM-net/
 ├── test.py             # Testing script
 └── requirements.txt    # Dependency list
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](file:///d:/UltraLight-VM-UNet-main10-2017/LGMM-net/LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to open-source projects like [UltraLight-VM-UNet](https://github.com/wurenkai/UltraLight-VM-UNet?utm_source=chatgpt.com) for their inspiration.
